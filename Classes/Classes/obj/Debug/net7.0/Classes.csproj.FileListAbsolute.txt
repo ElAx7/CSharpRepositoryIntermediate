@@ -1,0 +1,15 @@
+/Users/axelorozco/OneDrive - ITESO/CSharpRepositoryIntermediate/Classes/Classes/bin/Debug/net7.0/Classes
+/Users/axelorozco/OneDrive - ITESO/CSharpRepositoryIntermediate/Classes/Classes/bin/Debug/net7.0/Classes.deps.json
+/Users/axelorozco/OneDrive - ITESO/CSharpRepositoryIntermediate/Classes/Classes/bin/Debug/net7.0/Classes.runtimeconfig.json
+/Users/axelorozco/OneDrive - ITESO/CSharpRepositoryIntermediate/Classes/Classes/bin/Debug/net7.0/Classes.dll
+/Users/axelorozco/OneDrive - ITESO/CSharpRepositoryIntermediate/Classes/Classes/bin/Debug/net7.0/Classes.pdb
+/Users/axelorozco/OneDrive - ITESO/CSharpRepositoryIntermediate/Classes/Classes/obj/Debug/net7.0/Classes.csproj.AssemblyReference.cache
+/Users/axelorozco/OneDrive - ITESO/CSharpRepositoryIntermediate/Classes/Classes/obj/Debug/net7.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/axelorozco/OneDrive - ITESO/CSharpRepositoryIntermediate/Classes/Classes/obj/Debug/net7.0/Classes.AssemblyInfoInputs.cache
+/Users/axelorozco/OneDrive - ITESO/CSharpRepositoryIntermediate/Classes/Classes/obj/Debug/net7.0/Classes.AssemblyInfo.cs
+/Users/axelorozco/OneDrive - ITESO/CSharpRepositoryIntermediate/Classes/Classes/obj/Debug/net7.0/Classes.csproj.CoreCompileInputs.cache
+/Users/axelorozco/OneDrive - ITESO/CSharpRepositoryIntermediate/Classes/Classes/obj/Debug/net7.0/Classes.dll
+/Users/axelorozco/OneDrive - ITESO/CSharpRepositoryIntermediate/Classes/Classes/obj/Debug/net7.0/refint/Classes.dll
+/Users/axelorozco/OneDrive - ITESO/CSharpRepositoryIntermediate/Classes/Classes/obj/Debug/net7.0/Classes.pdb
+/Users/axelorozco/OneDrive - ITESO/CSharpRepositoryIntermediate/Classes/Classes/obj/Debug/net7.0/Classes.genruntimeconfig.cache
+/Users/axelorozco/OneDrive - ITESO/CSharpRepositoryIntermediate/Classes/Classes/obj/Debug/net7.0/ref/Classes.dll
