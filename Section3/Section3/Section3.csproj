@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Acces Modifiers\" />
+    <None Remove="Constructors\" />
+    <None Remove="Casting\" />
+    <None Remove="Boxing\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Acces Modifiers\" />
+    <Folder Include="Constructors\" />
+    <Folder Include="Casting\" />
+    <Folder Include="Boxing\" />
+  </ItemGroup>
+</Project>

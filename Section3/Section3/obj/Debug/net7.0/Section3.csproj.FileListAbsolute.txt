@@ -1,0 +1,5 @@
+/Users/axelorozco/OneDrive - ITESO/CSharpRepositoryIntermediate/Section3/Section3/obj/Debug/net7.0/Section3.csproj.AssemblyReference.cache
+/Users/axelorozco/OneDrive - ITESO/CSharpRepositoryIntermediate/Section3/Section3/obj/Debug/net7.0/Section3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/axelorozco/OneDrive - ITESO/CSharpRepositoryIntermediate/Section3/Section3/obj/Debug/net7.0/Section3.AssemblyInfoInputs.cache
+/Users/axelorozco/OneDrive - ITESO/CSharpRepositoryIntermediate/Section3/Section3/obj/Debug/net7.0/Section3.AssemblyInfo.cs
+/Users/axelorozco/OneDrive - ITESO/CSharpRepositoryIntermediate/Section3/Section3/obj/Debug/net7.0/Section3.csproj.CoreCompileInputs.cache
